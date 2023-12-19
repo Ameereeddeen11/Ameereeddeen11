@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ameereeddeen11.Ameereeddeen11" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amiriddin+Abdullaev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Amiriddin!;" />
 </h1>
 
 <h3>I'm a student in the field of IT in the Czech Republic.</h3>
@@ -10,7 +10,10 @@
 
 <div align="center">
   
-🔭 I’m currently working on my website <a href="https://www.my-recipes.me/">**My-Recipes**</a>
+🔭 I’m currently working on my website <a href="https://www.my-recipes.me/">**My-Recipes**</a><br/>
+I and my two classmates are working on the **project Inventory**. In this project, **there are two departments front-end and back-end**.
+I and my classmate are responsible at the back-end and we are now learning **C# and ASP.NET** fundamentals. A classmate who is responsible for the front-end is learning **Bootstrap and JavaScript**.
+Now we are using Discord for communication and distribution tasks but we are going to move on to Jira
 
 🌱 I’m currently learning **C# and ASP.NET**
 
