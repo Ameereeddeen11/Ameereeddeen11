@@ -12,7 +12,7 @@
 
 
   
-🔭 I’m currently working on my website <a href="https://www.my-recipes.me/">**My-Recipes**</a> and on <a href="https://github.com/Ameereeddeen11/My-telegram-bot">**My bot**</a><br/><br/>
+🔭 I’m currently working on my website <a href="https://github.com/Ameereeddeen11/my-mini-projects">**My-Recipes**</a> and on <a href="https://github.com/Ameereeddeen11/My-telegram-bot">**My bot**</a><br/><br/>
 I and my two classmates are working on the **project Inventory**. In this project, **there are two departments front-end and back-end**.
 I and my classmate are responsible at the back-end and we are now learning **C# and ASP.NET** fundamentals. A classmate who is responsible for the front-end is learning **Bootstrap and JavaScript**.
 Now we are using Discord for communication and distribution tasks but we are going to move on to Jira
