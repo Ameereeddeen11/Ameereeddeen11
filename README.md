@@ -17,9 +17,10 @@ I and my two classmates are working on the **project Inventory**. In this projec
 I and my classmate are responsible at the back-end and we are now learning **C# and ASP.NET** fundamentals. A classmate who is responsible for the front-end is learning **Bootstrap and JavaScript**.
 Now we are using Discord for communication and distribution tasks but we are going to move on to Jira
 
-🌱 I’m currently learning **C#, ASP.NET, ML**<br/>
-My progress in learning C# and ASP.NET you can see on the repository <a href="https://github.com/Ameereeddeen11/Learning-C-sharp">**Learning C#**</a>, <a href="https://github.com/Ameereeddeen11/Learning-ASP.NET">**Learning ASP.NET**</a>.<br/> 
-My journey of learning ML you can see on the repository <a href="https://github.com/Ameereeddeen11/Machinne-Learning-Tutorial">**Learning ML**</a>
+🌱 I’m currently learning **C#, ASP.NET, Go, ML, FastAPI**<br/>
+My progress of learning C# and ASP.NET you can see on the repository <a href="https://github.com/Ameereeddeen11/Learning-C-sharp">**Learning C#**</a>, <a href="https://github.com/Ameereeddeen11/Learning-ASP.NET">**Learning ASP.NET**</a>.<br/> 
+My journey of learning ML you can see on the repository <a href="https://github.com/Ameereeddeen11/Machinne-Learning-Tutorial">**Learning ML**</a>.<br/>
+My journey of learning FastAPI you can see on the repository <a href="https://github.com/Ameereeddeen11/FastAPI-mini-projects">**Learning FastAPI**</a>
 
 
 </div>
